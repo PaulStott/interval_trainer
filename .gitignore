@@ -48,3 +48,8 @@ coverage.xml
 
 # Ignore generated executable / installer files
 *.dmg
+
+# Ignore notes and stuff that's for info
+
+Info.plist
+compile_app.md
