@@ -50,6 +50,5 @@ coverage.xml
 *.dmg
 
 # Ignore notes and stuff that's for info
-
 Info.plist
 compile_app.md
